@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://tacobeer.github.io/about/
+    url: /about/
   - title: "알고리즘"
-    url: https://tacobeer.github.io/algo/
+    url: /algo/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
